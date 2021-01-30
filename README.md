@@ -1,4 +1,4 @@
-[![](123.png)](https://github.com/genasholkin1/PolarisBiosEditor-1.7.5-PBE)
+[![2](123.png)](https://github.com/genasholkin1/PolarisBiosEditor-1.7.5-PBE)
 
 Buy mining bios with performance timings! ⛏️💲
 --------------
