@@ -1,4 +1,4 @@
-![q](1.svg)![q](2.svg)![q](3.svg)
+[![](123.png)](https://github.com/genasholkin1/PolarisBiosEditor-1.7.5-PBE)
 
 Buy mining bios with performance timings! ⛏️💲
 --------------
@@ -11,5 +11,3 @@ https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-t
 New WIKI with PBE FAQ and tips for mining and bios modding
 --------------
 https://github.com/IndeedMiners/PolarisBiosEditor/wiki/POLARIS-BIOS-EDITOR-FAQ---BIOS-MOD
-
-[![2](123.png)](https://github.com/genasholkin1/PolarisBiosEditor-1.7.5-PBE)
