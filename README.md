@@ -1,4 +1,4 @@
-![q](1.svg)![q](2.svg)![q](3.svg)
+[![2](123.png)](https://github.com/genasholkin1/PolarisBiosEditor-1.7.5-PBE)
 
 Buy mining bios with performance timings! ⛏️💲
 --------------
